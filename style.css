@@ -1,0 +1,151 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+#header-sec
+{
+    background-image: url("images/Group-296.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.nav-link
+{
+    color: #fff;
+}
+.btn 
+{
+    border-radius: 60px;
+    line-height: 20px;
+}
+
+.CTA
+{
+    background-color: #65e4a3;
+    color: #0a2640;
+    border-radius: 50px;
+    padding: 10px 50px;
+    border-color: #65e4a3;
+    
+}
+.btn1
+{
+    background-color: #0a2640;
+    color: #fff;
+    border-radius: 50px;
+    padding: 10px 50px;
+    border-color: #fff;
+}
+.Group
+{
+    width: 100%;
+}
+.cart
+{
+    margin-left: 110px;
+    margin-top: -10px;
+}
+.border
+{
+    border-style: 1px gray;
+    width: 100px;
+}
+.port
+{
+   background-color: lightgray;
+   border-radius: 20px;
+
+}
+.Rectangle
+{
+    width: 100%;
+    
+}
+.png
+{
+    width: 100%;
+}
+.png2
+{
+    margin-left: 50px;
+}
+.blue
+{
+   margin-left: 60px; 
+   margin-top: -35px;
+}
+.btn2
+{
+    color: #fff;
+    background-color: #0a2640;
+    border-color: #0a2640;
+    padding: 10px 50px;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.connect
+{
+    border-style: outset;
+    
+}
+.maroon
+{
+    margin-left: 50px;
+    margin-top: -37px;
+}
+.rotate
+{
+    transform: rotate(180deg);
+}
+
+.white
+{
+    background-color: lightgray;
+    
+}
+
+.black
+{
+   width: 100%;
+}
+.port1
+{
+    background-image: url('images/Call-to-Action.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    height: 250px;
+}
+.btn07
+{
+    background: #fff;
+    border: #fff;
+    border-radius: 50px;
+    padding: 10px 50px;
+    font-weight: 500;
+}
+.btn08
+{
+    background: #65e4a3;
+    border: #65e4a3;
+    color: #0a2640;
+    border-radius: 40px;
+    padding: 7px 40px;
+    font-weight: 700;
+    margin-right: 30px;
+}
+.Hiring
+{
+    color: #0a2640;
+    background: #65e4a3;
+    border: #65e4a3;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+
+
+
